@@ -10,3 +10,12 @@ export const AVATAR = "https://occ-0-6215-64.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6
       Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhYmQzMGY3OGM3YzU1OWU0ZTUzNzc3NTMyOWNjODQ4NyIsInN1YiI6IjY0ZjI5ZGNhNWYyYjhkMDBlMTJiNDJiYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.IttAhtCO_CBhKEhdA9oJtnALBz96oFD95dbp3_R8wNY'
     }
   };
+
+  export const SUPPORTED_LANG =[
+    {
+      identifier:"en",
+      name:"English"
+    },
+    {identifier:"hindi",name:"Hindi"},
+    {identifier:"spanish",name:"Spanish"}
+  ]
