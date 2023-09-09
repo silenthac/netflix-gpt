@@ -16,6 +16,14 @@ export const AVATAR = "https://occ-0-6215-64.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6
       identifier:"en",
       name:"English"
     },
-    {identifier:"hindi",name:"Hindi"},
-    {identifier:"spanish",name:"Spanish"}
+    {
+      identifier:"hindi",
+      name:"Hindi"
+    },
+    {
+      identifier:"spanish",
+      name:"Spanish"
+    }
   ]
+
+   export const OPENAI_KEY = "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"
