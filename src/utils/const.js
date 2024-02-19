@@ -26,4 +26,7 @@ export const AVATAR = "https://occ-0-6215-64.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6
     }
   ]
 
-   export const OPENAI_KEY = "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"
+
+    export const OPENAI_KEY = "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"
+  //  export const OPENAI_KEY = "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"
+  
